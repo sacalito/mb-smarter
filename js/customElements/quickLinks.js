@@ -27,7 +27,7 @@ const asinfo = [
     innerText: "-> TAG Wiki",
   },
   {
-    href: "https://chromewebstore.google.com/detail/mb-filter/hkcgejlfeaojlbblhajcpklojekobbpg",
+    href: "https://chromewebstore.google.com/detail/mb-smart-extension/dehgbhehbnpjdplimjhlbfbfmaplihhn",
     innerText: "-> MB Extension",
   },
   {
